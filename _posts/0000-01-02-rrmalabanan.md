@@ -1,0 +1,6 @@
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Follow instructions
+Use the left arrow to go back!
